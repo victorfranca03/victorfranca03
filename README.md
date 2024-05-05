@@ -15,6 +15,4 @@
        <img aling="ceter" alt="html5"   src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=black"        />
          <img aling="ceter" alt="html5"   src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black"        />
            <img aling="ceter" alt="html5"   src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black"        />
-                  
-
 </div>
